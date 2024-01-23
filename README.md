@@ -24,7 +24,7 @@ The study on toy example is modified from [overparam_spur_corr](https://github.c
 
 ## Setup
 
-Like Domainbed, this repo can be easily setup without installing many other packages if you have already setup a Python environment with latest PyTorch. The basic packages required can be installed by:
+Like Domainbed, this repo can be easily setup without installing many other packages if you have already setup a Python environment with the latest PyTorch. The required packages can be installed by:
 ```sh
 pip install -r domainbed/requirements.txt
 ```
